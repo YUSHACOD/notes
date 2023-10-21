@@ -1,0 +1,29 @@
+1. Ask quetions, Always.
+
+2. HTTP protocol
+
+3. RFC - Request for Comments
+
+4. Find out about HTTP - RFC
+
+5. Web Server - Web Client (Browser) / HTTP Server - HTTP Client
+
+7. Understanding Http Concepts using Google Chrome
+
+8. Web Server Working Basics
+
+9.  1.. Ports
+	2.. DNS - Domain Name Server	
+	3.. Host
+	4.. URL
+	5.. IP address
+
+10. Web Basics {
+	Browser Connects to OS TCP/IP
+}
+
+11. Configuring Virtual Hosts in Apache Server
+
+12. Content Directory or Root Directory of Web Server
+
+13. Conventions followed by Server and Frameworks
