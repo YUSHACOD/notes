@@ -1,0 +1,6 @@
+1. Composer setup and what it does
+
+2. Laravel project structure introduction
+
+3. Introduction to php namespaces, use, and modules
+

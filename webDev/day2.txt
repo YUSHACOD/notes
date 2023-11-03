@@ -1,12 +1,28 @@
 1. .env
+
 2. .gitignore
+
 3. REST CLIENT
+
 4. GET/POST for browsers
+
 5. Commit hashes
+
 6. .editorconfig
+
 7. Commit HEAD
+
 8. Rest Client (VS Code)
+
 9. Composer (A package manager for php)
+
 10. Git book (RED Book)
+
 11. Github (Today I learned repos)
+
 12. thoughtworksradar.com
+
+13. Fast forward merge // git pull:
+	git diverge problems
+	git merge
+	git rebase
