@@ -1,0 +1,10 @@
+1. Web Site for a personality
+2. Tutorial for navigation of the website with a screencast
+demonstration video.
+3. Gradual day by day commits are needed for evaluation.
+
+Skill : Static website creation.
+Skill : Dynamic website creation.
+	required :
+	API
+	Client site application

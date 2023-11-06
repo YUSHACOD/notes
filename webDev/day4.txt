@@ -1,0 +1,18 @@
+Learning Skills for First assignment : Static WebSite
+
+1.------------------------------------------------------------------------
+			Router			|Views|
+			  |					|
+Browser -> |Website| <---> |Controllers|
+								|
+							  |model| <--> orm[Eloquent] <--> database
+---------------------------------------------------------------
+
+2. Laravel ORM(object relation mapping) Eloquent
+
+3. Rapid Prototyping with Laravel
+
+4. Larvel Routes (php artisan route:list --except-vendor) 
+
+5. Defining Routes  Managing and naming Routes, route parameters, Optional Rout parameters
+
